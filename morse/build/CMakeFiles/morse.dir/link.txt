@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/morse.dir/src/decode.c.o CMakeFiles/morse.dir/src/encode.c.o CMakeFiles/morse.dir/src/main.c.o CMakeFiles/morse.dir/src/morse.c.o CMakeFiles/morse.dir/src/morse_table.c.o -o morse 

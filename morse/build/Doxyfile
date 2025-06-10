@@ -1,0 +1,7 @@
+PROJECT_NAME           = "morse"
+OUTPUT_DIRECTORY       = doc
+INPUT                  = ../include ../src
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+OPTIMIZE_OUTPUT_FOR_C  = YES
+QUIET                  = YES

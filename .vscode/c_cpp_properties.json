@@ -23,8 +23,8 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "cl.exe",
-            "intelliSenseMode": "windows-msvc-x64"
+            "compilerPath": "/usr/bin/gcc",
+            "intelliSenseMode": "gcc-x64"
         }
     ],
     "version": 4

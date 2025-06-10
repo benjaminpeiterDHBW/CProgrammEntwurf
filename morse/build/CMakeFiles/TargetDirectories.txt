@@ -1,0 +1,4 @@
+/home/benjaminpeiter/CProgrammEntwurf/morse/build/CMakeFiles/morse.dir
+/home/benjaminpeiter/CProgrammEntwurf/morse/build/CMakeFiles/doc_doxygen.dir
+/home/benjaminpeiter/CProgrammEntwurf/morse/build/CMakeFiles/edit_cache.dir
+/home/benjaminpeiter/CProgrammEntwurf/morse/build/CMakeFiles/rebuild_cache.dir

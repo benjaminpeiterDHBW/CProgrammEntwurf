@@ -1,0 +1,12 @@
+<map id="/home/benjaminpeiter/CProgrammEntwurf/morse/src/decode.c" name="/home/benjaminpeiter/CProgrammEntwurf/morse/src/decode.c">
+<area shape="rect" id="Node000001" title="Implementierung der Decodierfunktion für Morsecode." alt="" coords="6,5,204,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="36,181,102,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,62,31,83,12,109,9,126,15,142,27,157,41,171,38,175,23,161,10,144,3,126,7,107,27,79,53,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="22,108,92,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,61,73,97,68,95,88,59"/>
+<area shape="rect" id="Node000004" href="$morse_8h.html" title="Header für das Morse_Code_Projekt." alt="" coords="117,108,192,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,59,143,95,139,97,118,61"/>
+<area shape="rect" id="Node000005" href="$morse__table_8h.html" title="Definition der Datenstruktur für Morsecode&#45;Zuordnung." alt="" coords="216,108,330,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="158,58,240,99,237,104,155,62"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="142,135,95,175,92,170,139,131"/>
+</map>
